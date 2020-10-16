@@ -2,13 +2,6 @@
 Bike Sharing Dataset
 ==========================================
 
-Hadi Fanaee-T
-
-Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
-INESC Porto, Campus da FEUP
-Rua Dr. Roberto Frias, 378
-4200 - 465 Porto, Portugal
-
 
 =========================================
 Background 
